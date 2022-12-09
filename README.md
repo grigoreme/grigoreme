@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/grigoreme"><img src="https://api.daily.dev/devcards/ab50ee8935ef4ed1beb13c4147e868a8.png?r=sqr" width="400" alt="Grigore's Dev Card"/></a>
 [![@grigoreme's Holopin board](https://holopin.io/api/user/board?user=grigoreme)](https://holopin.io/@grigoreme)
 
 
